@@ -1,0 +1,9 @@
+nltk
+scikit-learn
+numpy
+pandas
+matplotlib
+wordcloud
+requests
+joblib
+streamlit
