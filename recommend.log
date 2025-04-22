@@ -1,0 +1,10 @@
+[2025-04-22 14:38:57,640] INFO - 🔁 Loading data...
+[2025-04-22 14:38:58,382] INFO - ✅ Data loaded successfully.
+[2025-04-22 14:39:10,788] INFO - 🎬 Recommending movies for: 'Avengers: Age of Ultron'
+[2025-04-22 14:39:10,796] INFO - ✅ Top 5 recommendations ready.
+[2025-04-22 14:51:04,059] INFO - 🔁 Loading data...
+[2025-04-22 14:51:04,539] INFO - ✅ Data loaded successfully.
+[2025-04-22 14:51:13,147] INFO - 🎬 Recommending movies for: 'After Earth'
+[2025-04-22 14:51:13,155] INFO - ✅ Top 5 recommendations ready.
+[2025-04-22 14:52:49,297] INFO - 🎬 Recommending movies for: 'Baahubali: The Beginning'
+[2025-04-22 14:52:49,304] INFO - ✅ Top 5 recommendations ready.
